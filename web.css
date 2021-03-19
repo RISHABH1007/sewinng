@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(184, 11, 236);
+}
+
+p {
+    color: blue
+}
+
+p2 {
+    color: greenyellow;
+    text-align: center
+}
+
+t {
+    color: rgb(34, 1, 26)
+}
+
+h1 {
+    color: rgb(227, 252, 6)
+}
+
+h1 {
+    font-size: 100px;
+}
+
+ul {
+    color: rgb(26, 0, 26)
+}
+
+ul,
+ul2 {
+    font-size: 60px;
+}
+
+div {
+    color: darkorange
+}
+
+h2 {
+    font-size: 70px;
+}
+
+h2 {
+    color: rgb(252, 8, 8)
+}
+
+ul2 {
+    color: rgb(76, 233, 8)
+}
+
+h3 {
+    color: rgb(252, 8, 8)
+}
+
+h3 {
+    font-size: 50px
+}
+
+h3 {
+    text-align: center
+}
+
+h1 {
+    text-align: center
+}
